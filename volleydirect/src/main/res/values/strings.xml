@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VolleyDirect</string>
+    <string name="something">Something went wrong</string>
+    <string name="no_internet">No Internet</string>
 </resources>
